@@ -1,4 +1,4 @@
-FROM node:8.4.0
+FROM node:9.11.1
 
 
 RUN apt-get update && apt-get install -y --no-install-recommends \
